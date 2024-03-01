@@ -10,7 +10,7 @@ Hello there! I'm currently a second-year Computer Science student at United Inte
 
 
 ---
-### 🧰 Languages and Tools that I worked on
+### 🧰 Languages and Tools 🛠
 
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://github.com/Shimu-I/Shimu-I/blob/master/Programing%20language%20icons/Programing_language_C.png" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/Shimu-I/Shimu-I/blob/master/Programing%20language%20icons/Programing_language_C%2B%2B.png" />
