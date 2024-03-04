@@ -9,6 +9,7 @@ Hello there! I'm currently a second-year Computer Science student at United Inte
 
 
 
+
 ---
 ### 🧰 Languages and Tools 🛠
 
@@ -32,7 +33,7 @@ Hello there! I'm currently a second-year Computer Science student at United Inte
 
 ### 📊 Stats
 ![Shimu's git hub status](https://github-readme-stats.vercel.app/api?username=Shimu-I&theme=rose_pine&show_icons=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shimu-I&theme=tokyonight)
 #
 <details>
 <summary><h3>👩🏼‍💻Shimu's Computer Science and Engineering Journey</h3></summary>
