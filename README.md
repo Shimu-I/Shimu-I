@@ -7,27 +7,63 @@ Hello there! I'm currently a second-year Computer Science student at United Inte
 
 
 
+![GitHub watchers](https://img.shields.io/github/watchers/Shimu-I/Shimu-I)
+<br/>
+![GitHub followers](https://img.shields.io/github/followers/Shimu-I)
+
+
+
+
+
+
+
 
 
 
 ---
-### 🧰 Languages and Tools 🛠
 
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://github.com/Shimu-I/Shimu-I/blob/master/Programing%20language%20icons/Programing_language_C.png" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/Shimu-I/Shimu-I/blob/master/Programing%20language%20icons/Programing_language_C%2B%2B.png" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Shimu-I/Shimu-I/blob/master/Programing%20language%20icons/Programing_language_Python.png"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Shimu-I/Shimu-I/blob/master/Programing%20language%20icons/Programing_language_Ruby.png"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Shimu-I/Shimu-I/blob/master/Programing%20language%20icons/Programing_language_Java.png"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Shimu-I/Shimu-I/blob/master/Programing%20language%20icons/Programing_language_JavaScript.png"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Shimu-I/Shimu-I/blob/master/Programing%20language%20icons/CSS.png"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Shimu-I/Shimu-I/blob/master/Programing%20language%20icons/HTML.png"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Shimu-I/Shimu-I/blob/master/Programing%20language%20icons/Git_hub.png"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Shimu-I/Shimu-I/blob/master/Programing%20language%20icons/Linux.png"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Shimu-I/Shimu-I/blob/master/Programing%20language%20icons/PHP.png"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Shimu-I/Shimu-I/blob/master/Programing%20language%20icons/Photoshop.png"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Shimu-I/Shimu-I/blob/master/Programing%20language%20icons/Illustrator.png"/>
 
-<br />
+
+[comment]: <> (This is a comment, it will not be included)
+[comment]: <> (in  the output file unless you use it in)
+[comment]: <> (a reference style link.)
+[//]: <> (This is also a comment.)
+
+
+
+
+## 💼 Technical Skills
+
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=Go&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=C&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Java-EC1B23?style=flat-square&logo=Java&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+
+</br>
+
+![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=CSS3&logoColor=white)
+
+
+</br>
+
+![Static Badge](https://img.shields.io/badge/Windows-%230078D4?style=flat-square&logo=Windows&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=Linux&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?style=flat-square&logo=Ubuntu&logoColor=white)
+
+
+</br>
+
+![Static Badge](https://img.shields.io/badge/Adobe%20Photoshop-00CAFC?style=flat-square&logo=adobephotoshop&logoColor=001D26)
+![Static Badge](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00?style=flat-square&logo=adobeillustrator&logoColor=001D26)
+![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+
+
+
+
 
 #
 
