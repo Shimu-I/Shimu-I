@@ -7,18 +7,6 @@ Hello there! I'm currently a second-year Computer Science student at United Inte
 
 
 
-![GitHub watchers](https://img.shields.io/github/watchers/Shimu-I/Shimu-I)
-<br/>
-![GitHub followers](https://img.shields.io/github/followers/Shimu-I)
-
-
-
-
-
-
-
-
-
 
 ---
 
