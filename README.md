@@ -83,21 +83,5 @@ Hi, I'm Shimu. I'm learning Computer Science as I was inspired by watching anime
   <img align="left" alt="Vedant Jajoo DEV" width="21px" src="https://github.com/Shimu-I/Shimu-I/blob/master/Programing%20language%20icons/LinkedIn.png" />
 </a>
 
-<a href="https://leetcode.com/iris24evergarden/">
-  <img align="left" alt="Vedant Jajoo DEV" width="21px" src="https://github.com/Shimu-I/Shimu-I/blob/master/Programing%20language%20icons/LeetCode.png" />
-</a>
-
-<a href="https://www.hackerrank.com/profile/iris24evergarden">
-  <img align="left" alt="Vedant Jajoo DEV" width="21px" src="https://github.com/Shimu-I/Shimu-I/blob/master/Programing%20language%20icons/Hacker_Rank.png" />
-</a>
-
-<a href="https://www.codingninjas.com/studio/profile/42f57e04-baea-447d-9ddc-7feb35056e82">
-  <img align="left" alt="Vedant Jajoo DEV" width="21px" src="https://github.com/Shimu-I/Shimu-I/blob/master/Programing%20language%20icons/codingninjas.png" />
-</a>
-
-<a href="https://codeforces.com/profile/shimu-dL">
-  <img align="left" alt="Vedant Jajoo DEV" width="21px" src="https://github.com/Shimu-I/Shimu-I/blob/master/Programing%20language%20icons/Code_forces.png" />
-</a>
-
 <br/><br/>
 
