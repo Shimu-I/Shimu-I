@@ -67,6 +67,12 @@ Hi, I'm Shimu. I'm learning Computer Science as I was inspired by watching anime
 
 ### Connect with me 
 
+
+<a href="https://www.linkedin.com/in/jasmin-sultana-shimu-483709254/">
+  <img align="left" alt="Vedant Jajoo DEV" width="21px" src="https://github.com/Shimu-I/Shimu-I/blob/master/Programing%20language%20icons/LinkedIn.png" />
+</a>
+
+<!-- 
 <a href="https://github.com/Shimu-I/Shimu-I/blob/master/Programing%20language%20icons/Gmail.png">
   <img align="left" alt="Vedant Jajoo DEV" width="21px" src="https://github.com/Shimu-I/Shimu-I/blob/master/Programing%20language%20icons/Gmail.png" />
 </a>
@@ -79,9 +85,7 @@ Hi, I'm Shimu. I'm learning Computer Science as I was inspired by watching anime
   <img align="left" alt="Vedant Jajoo DEV" width="21px" src="https://github.com/Shimu-I/Shimu-I/blob/master/Programing%20language%20icons/Facebook.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/jasmin-sultana-shimu-483709254/">
-  <img align="left" alt="Vedant Jajoo DEV" width="21px" src="https://github.com/Shimu-I/Shimu-I/blob/master/Programing%20language%20icons/LinkedIn.png" />
-</a>
 
+-->
 <br/><br/>
 
