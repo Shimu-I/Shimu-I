@@ -56,8 +56,12 @@ Hello there! I'm currently a second-year Computer Science student at United Inte
 #
 
 ### 📊 Stats
-![Shimu's git hub status](https://github-readme-stats.vercel.app/api?username=Shimu-I&theme=rose_pine&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shimu-I&theme=tokyonight)
+<!-- GitHub Stats -->
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shimu-i&show_icons=true&locale=en" alt="shimu-i" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimu-i&layout=compact&hide_border=true&langs_count=10&show_icons=true&theme=transparent" />
+</p>
+
 #
 <details>
 <summary><h3>👩🏼‍💻Shimu's Computer Science and Engineering Journey</h3></summary>
@@ -88,4 +92,10 @@ Hi, I'm Shimu. I'm learning Computer Science as I was inspired by watching anime
 
 -->
 <br/><br/>
+
+
+
+
+
+
 
