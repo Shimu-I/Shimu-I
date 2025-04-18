@@ -2,13 +2,20 @@
 
 **`Ambitious`**
 </br>
-Hello there! I'm currently a second-year Computer Science student at United International University. I'm thrilled to share that I diligently keep track of all my practice code and projects here. If you ever need any assistance or would like to collaborate on something, feel free to reach out! 😊
+Hello there! I'm a computer science student at United International University, and I'm excited to share my projects and practice code here.
+Feel free to reach out if you'd like to collaborate or need any assistance! 😊
+
+
+## I'm particularly passionate about:
+💻 Full Stack Development<br>
+🌐 Web Development<br>
+🔐 Cyber Security<br>
+🎨 UI/UX Design<br>
+🧱 3D Modeling<br>
 
 
 
 
-
----
 
 
 
@@ -20,7 +27,7 @@ Hello there! I'm currently a second-year Computer Science student at United Inte
 
 
 
-## 💼 Technical Skills
+# 💼 Technical Skills
 
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=Go&logoColor=white)
