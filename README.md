@@ -8,7 +8,6 @@ Feel free to reach out if you'd like to collaborate or need any assistance! 😊
 
 ## I'm particularly passionate about:
 💻 Full Stack Development<br>
-🌐 Web Development<br>
 🔐 Cyber Security<br>
 🎨 UI/UX Design<br>
 🧱 3D Modeling<br>
