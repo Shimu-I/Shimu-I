@@ -34,6 +34,11 @@ Inspired by the futuristic tech in anime, I'm on a mission to bring imaginative 
 ![Shimu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shimu-I&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shimu-I&layout=compact&theme=tokyonight)
 
+<!--START_SECTION:recent_langs-->
+<!-- The content of RECENT_LANGUAGES.md will be placed here -->
+<!--END_SECTION:recent_langs-->
+
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=Shimu-I&theme=gruvbox)
 
 ![GitHub followers](https://img.shields.io/github/followers/Shimu-I?label=Follow&style=social)
@@ -58,10 +63,11 @@ Hi, I'm Shimu! My love for technology was sparked by watching anime, where futur
 
 ---
 ## 📫 Connect with Me
-
-<a href="https://www.linkedin.com/in/jasmin-sultana-shimu-483709254/">
-  <img align="center" alt="LinkedIn" width="24px" src="https://github.com/Shimu-I/Shimu-I/raw/master/Programing%20language%20icons/LinkedIn.png" />
+<a href="https://www.linkedin.com/in/jasmin-sultana-shimu-483709254/" target="_blank">
+  <img align="center" alt="LinkedIn Profile" width="24px" src="https://raw.githubusercontent.com/Shimu-I/Shimu-I/master/Programing%20language%20icons/LinkedIn.png" />
 </a>
+
+
 
 
 <!-- Additional social links (uncomment to enable)
