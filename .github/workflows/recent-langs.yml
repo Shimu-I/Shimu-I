@@ -2,8 +2,8 @@ name: Update Recent Commit Languages
 
 on:
   schedule:
-    - cron: '0 0 * * *' # runs daily at midnight UTC
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # runs daily at midnight UTC
+  workflow_dispatch:  # Allows manual triggering of the action
 
 jobs:
   update-languages:
@@ -28,4 +28,12 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add RECENT_LANGUAGES.md
           git commit -m "Update recent commit languages"
-          git push
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:${{ github.ref }}
+
+      - name: Inject Languages into README.md
+        run: |
+          sed -i '/<!--START_SECTION:recent_langs-->/, /<!--END_SECTION:recent_langs-->/d' README.md
+          cat RECENT_LANGUAGES.md >> README.md
+          git add README.md
+          git commit -m "Update README with recent languages"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:${{ github.ref }}
