@@ -34,6 +34,16 @@ Inspired by the futuristic tech in anime, I'm on a mission to bring imaginative 
 ![Shimu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shimu-I&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shimu-I&layout=compact&theme=tokyonight)
 
+
+<!--
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shimu-I&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shimu-I&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shimu-I&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shimu-I&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shimu-I&theme=default)
+-->
+
 <!--START_SECTION:recent_langs-->
 <!-- The content of RECENT_LANGUAGES.md will be placed here -->
 <!--END_SECTION:recent_langs-->
@@ -66,6 +76,10 @@ Hi, I'm Shimu! My love for technology was sparked by watching anime, where futur
 <a href="https://www.linkedin.com/in/jasmin-sultana-shimu-483709254/" target="_blank">
   <img align="center" alt="LinkedIn Profile" width="24px" src="https://raw.githubusercontent.com/Shimu-I/Shimu-I/master/Programing%20language%20icons/LinkedIn.png" />
 </a>
+
+
+
+
 
 
 
