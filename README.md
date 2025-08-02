@@ -5,6 +5,8 @@
 Welcome! I'm Jasmin, a Computer Science student at United International University. I’m passionate about turning creative ideas into impactful digital solutions. This GitHub space showcases my projects, learning journey, and growing skill set in the tech world.
 
 Feel free to explore, collaborate, or connect!
+<br><br>
+![Profile Views](https://komarev.com/ghpvc/?username=shimu-i&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
 
@@ -22,9 +24,10 @@ Feel free to explore, collaborate, or connect!
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shimu-i&show_icons=true&theme=gotham" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimu-i&layout=compact&theme=gotham" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shimu-i&show_icons=true&theme=gotham&hide_title=true&line_height=21" alt="GitHub Stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimu-i&layout=compact&theme=gotham" alt="Top Languages" height="250px" />
 </div>
+
 
 ---
 
@@ -36,10 +39,11 @@ Feel free to explore, collaborate, or connect!
 
 ## 🚀 About Me
 
-Fascinated by the imaginative tech in anime, I’m driven to transform creativity into practical innovations. My interests span full-stack development, cybersecurity, design, and even 3D modeling. I enjoy experimenting, learning, and pushing boundaries to bring ideas to life.
+Fascinated by the imaginative tech in anime, I’m driven to transform creativity into practical innovations. My interests span **Full Stack Development**, **Cybersecurity**, **Machine Learning**, **UI/UX Design**, and even **3D Modeling**. I enjoy experimenting, learning, and pushing boundaries to bring ideas to life.
 
 ### 💡 Areas of Interest
-- 💻 Full Stack Development  
+- 💻 Full Stack Development (JavaScript Frameworks)  
+- 🤖 Machine Learning  
 - 🔐 Cybersecurity  
 - 🎨 UI/UX Design  
 - 🧱 3D Modeling  
@@ -48,12 +52,13 @@ Fascinated by the imaginative tech in anime, I’m driven to transform creativit
 
 ## 🛠️ Technical Skills
 
-| Category              | Tools & Technologies                                                                 |
-|-----------------------|---------------------------------------------------------------------------------------|
-| Programming Languages | ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=Go&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-EC1B23?style=flat-square&logo=Java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) |
-| Web Technologies      | ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=CSS3&logoColor=white) |
-| Operating Systems     | ![Windows](https://img.shields.io/badge/Windows-%230078D4?style=flat-square&logo=Windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=Linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=flat-square&logo=Ubuntu&logoColor=white) |
-| Design Tools          | ![Photoshop](https://img.shields.io/badge/Photoshop-00CAFC?style=flat-square&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| Category              | Tools & Technologies |
+|-----------------------|-----------------------|
+| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-EC1B23?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Full Stack Development** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Machine Learning**  | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
+| **Operating Systems** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) |
+| **Design Tools**      | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
 ---
 
@@ -70,21 +75,16 @@ Hi, I'm Shimu! My fascination with technology began through anime, where futuris
 
 ## ⌨️ Typing Practice on Monkeytype
 
-<a href="https://monkeytype.com/profile/dark_rai_491">
-  <img align="center" alt="Monkeytype" width="24px" src="https://monkeytype.com/images/favicon/favicon-32x32.png" />
-</a>
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-dark__rai__491-orange?style=for-the-badge)](https://monkeytype.com/profile/dark_rai_491)
+
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jasmin%20Sultana%20Shimu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jasmin-sultana-shimu-483709254/)
-
-<!-- Optional: Uncomment to enable
-[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC44o1KerHIWmmZ2Ij4Yzn5A)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/shi.mu.927758/)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jasmin%20Sultana%20Shimu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jasmin-sultana-shimu-483709254/)  
+[![Gmail](https://img.shields.io/badge/Gmail-jasmin8sultana8shimu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasmin8sultana8shimu@gmail.com)  
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@shimu-8?si=7WHGXiKsZIjJ6ldN)  
 
 ---
 
