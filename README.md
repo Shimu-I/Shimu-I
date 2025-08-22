@@ -8,16 +8,22 @@ Feel free to explore, collaborate, or connect!
 <br><br>
 ![Profile Views](https://komarev.com/ghpvc/?username=shimu-i&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
----
 
+<!--
+
+---
 # 🧑‍💻 GitHub Overview – @shimu-i
 
-<!-- Profile Summary Cards -->
+ Profile Summary Cards 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimu-i&theme=default)
 ![Top Languages by Repo Count](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shimu-i&theme=default)
 ![Most Used Languages by Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shimu-i&theme=default)
 ![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shimu-i&theme=default)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shimu-i&theme=default&utcOffset=8)
+
+
+
+-->
 
 ---
 
