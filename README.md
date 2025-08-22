@@ -27,20 +27,18 @@ Feel free to explore, collaborate, or connect!
 
 ---
 
+## 🔥 GitHub Streaks
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=shimu-i&theme=dark)](https://git.io/streak-stats)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shimu-i&show_icons=true&theme=gotham&hide_title=true&line_height=21" alt="GitHub Stats" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimu-i&layout=compact&theme=gotham" alt="Top Languages" height="250px" />
 </div>
-
-
----
-
-## 🔥 GitHub Streaks
-
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=shimu-i&theme=dark)](https://git.io/streak-stats)
-
 ---
 
 ## 🚀 About Me
