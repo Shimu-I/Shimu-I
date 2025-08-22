@@ -39,6 +39,7 @@ Feel free to explore, collaborate, or connect!
   <img src="https://github-readme-stats.vercel.app/api?username=shimu-i&show_icons=true&theme=gotham&hide_title=true&line_height=21" alt="GitHub Stats" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimu-i&layout=compact&theme=gotham" alt="Top Languages" height="250px" />
 </div>
+
 ---
 
 ## 🚀 About Me
