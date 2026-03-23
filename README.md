@@ -46,16 +46,19 @@ Feel free to explore, collaborate, or connect!
 
 Fascinated by the imaginative tech in anime, I’m on a mission to turn creative concepts into practical innovations. I am a Computer Science & Engineering student at United International University. My focus is on building a versatile toolkit that bridges the gap between raw data, secure systems, and immersive design. I believe the best tech is both intelligent and aesthetic.
 
-📚 What I’m Learning & Mastering
+## 📚 What I’m Learning & Mastering
+
 - Data Engineering: Building strong foundations in SQL (MySQL) and Python-based logic.
 - Intelligent Systems: Exploring Machine Learning fundamentals and Computer Vision.
 - Software Architecture: Developing with Java and PHP to understand how data and apps intersect.
 - Creative Tech: Diving into UI/UX Design to bring ideas to life visually.
 
-💡 Areas of Interest
-📊 Data & AI (Data Analytics, Data Engineer, ML, Computer Vision)
-💻 Full Stack Dev (Javascript Framework)
-🎨 Visual Design (UI/UX)
+## 💡 Areas of Interest
+
+- 📊 Data & AI (Data Analytics, Data Engineer, ML, Computer Vision)
+- 💻 Full Stack Dev (Javascript Framework)
+- 🎨 Visual Design (UI/UX)
+  
 ---
 
 ## 🛠️ Technical Skills
