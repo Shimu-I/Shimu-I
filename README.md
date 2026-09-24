@@ -29,6 +29,8 @@ Explore my projects, experiments, and research below.
 
 💻 I enjoy building **end-to-end data science projects**, transforming raw data into meaningful insights through data cleaning, visualization, feature engineering, machine learning, and deployment.
 
+🚀 Throughout my university journey, I have led and contributed to multiple university and laboratory projects, developing my leadership, collaboration, and problem-solving skills.
+
 🔬 Currently expanding my knowledge in **Scikit-learn, Statistics, SQL, and Data Engineering** while developing projects that solve real-world problems.
 
 🎯 **Career Goal:** Data Scientist → Machine Learning Engineer
@@ -65,6 +67,7 @@ Explore my projects, experiments, and research below.
 | **AI Productivity Tools** | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white) ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white) |
 | **Web Technologies** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 | **Design Tools** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) |
+| **AI & LLM** | ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) |
 
 
 <!--
