@@ -123,11 +123,18 @@ Explore my projects, experiments, and research below.
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shimu-i&show_icons=true&theme=gotham&hide_title=true&line_height=21" alt="GitHub Stats" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimu-i&layout=compact&theme=gotham" alt="Top Languages" height="250px" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shimu-i&theme=github_dark"
+    width="49%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shimu-i&theme=github_dark"
+    width="49%"
+  />
 </div>
 
 ---
+
 
 
 
